@@ -99,3 +99,16 @@
      flex-direction: column;
      align-items: center;
  }
+ .element-img img{
+    height: 300px;
+    width: auto;
+    border: 20px;
+    margin: 15px;
+    border-radius: 20px;
+
+   
+ }
+ .nome-pizza{
+    margin-top: -100px;
+ }
+ 
